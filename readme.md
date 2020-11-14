@@ -4,7 +4,7 @@
 + 2020 秋季学期（Fall 2020）
 + 教师：陈旭
   
-***
+
 
 DQN 的基础实现参照源码：https://github.com/lukeluocn/dqn-breakout
 
