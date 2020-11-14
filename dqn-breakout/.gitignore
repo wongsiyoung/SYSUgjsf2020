@@ -1,7 +1,0 @@
-.ipynb_checkpoints
-.mypy_cache
-__pycache__
-eval_*/
-models/
-saved_models/
-rewards*.txt
